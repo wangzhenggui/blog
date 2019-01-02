@@ -1,20 +1,25 @@
 1、输入url回车
 
 2、浏览器查看当前url是否具有缓存
+
 3、dns域名解析
+
 4、建立tcp链接(http3次握手)
+
 5、发送http请求
+
 6、浏览器收到响应，渲染DOM节点
+
 7、关闭tcp链接 (4次挥手)
 
 
+
 拓展问题
- 跨域【不同源策略】
-	https://www.jianshu.com/p/438183ddcea8
- 浏览器缓存
-	https://github.com/amandakelake/blog/issues/41
- 浏览器响应常用状态码
-	https://blog.csdn.net/laishaohe/article/details/79052085
+
+ 跨域【不同源策略】    https://www.jianshu.com/p/438183ddcea8
+ 浏览器缓存     https://github.com/amandakelake/blog/issues/41
+ 浏览器响应常用状态码  https://blog.csdn.net/laishaohe/article/details/79052085
+
 	列举
 	  200 请求成功
 	  301 302 请求的资源移动到新的位置
