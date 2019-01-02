@@ -17,7 +17,9 @@
 拓展问题
 
  跨域【不同源策略】    https://www.jianshu.com/p/438183ddcea8
+ 
  浏览器缓存     https://github.com/amandakelake/blog/issues/41
+ 
  浏览器响应常用状态码  https://blog.csdn.net/laishaohe/article/details/79052085
 
 	列举
@@ -32,6 +34,7 @@
 	  505 服务器不支持HTTP协议版本
  页面渲染
 	https://segmentfault.com/a/1190000010298038
+	
 	1、通过HTML Parser将HTML标签解析成DOM Tree
 	2、通过CSS Parser将CSS解析成CSSDOM树
 	3、通过render将俩者渲染成Render Tree
