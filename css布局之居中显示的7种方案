@@ -1,0 +1,24 @@
+第一种：	absolute + margin:auto + left, right, top, bottom = 0
+
+第二种：	absolute + margin-left:-50%组件的宽度，margin-top:-50%组件的高度 + top:50%,right:50%
+
+第三种：	absolute + top:calc(50% - 1/2组件高度),left: calc(50% - 1/2组件宽度)
+
+第四种：	absolute + top:50%,left:50% + transform:translate(-50%,-50%)
+
+第五种：	table方式布局 display:table-cell,text-align:center,vertical-align:middle 
+      	 子元素设置为display:inline-block
+
+第六种：	flex方式布局 display:flex, justify-content:center,align-items:center;
+
+第七种：	grid方式布局 display:grid, 子元素设置 justify-self:center,align-self:center
+
+
+其中第二种 第三种需要知道组件的宽高，其余都不需要知道
+
+参考链接🔗：https://juejin.im/post/5b9a4477f265da0ad82bf921#heading-10
+
+
+
+
+
