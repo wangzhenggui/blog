@@ -9,4 +9,11 @@ html5中新增内容？
 
     新技术：localStrong、SessionStrong、indexDB、Websocket、webWorker
 
+
+
+css3新特性？
+      
+      新增各种css选择器，新增伪类标签
+      圆角 阴影 文字特效 动画
+      
     
