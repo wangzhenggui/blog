@@ -7,3 +7,5 @@
 # javaScript深入系列
 
 [1、javaScript深入之原型与原型链](https://github.com/wangzhenggui/blog/issues/1)
+
+[2、javaScript深入之静态作用域与动态作用域](https://github.com/wangzhenggui/blog/issues/2)
