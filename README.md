@@ -13,3 +13,5 @@
 [3、javaScript深入之执行上下文栈](https://github.com/wangzhenggui/blog/issues/3)
 
 [4、javaScript深入之变量对象](https://github.com/wangzhenggui/blog/issues/4)
+
+[5、javaScript深入之作用域链](https://github.com/wangzhenggui/blog/issues/5)
