@@ -17,3 +17,6 @@
 [5、javaScript深入之作用域链](https://github.com/wangzhenggui/blog/issues/5)
 
 [6、javaScript深入之玩转this](https://github.com/wangzhenggui/blog/issues/6)
+
+[7、javaScript深入之玩转箭头函数this](https://github.com/wangzhenggui/blog/issues/7)
+
