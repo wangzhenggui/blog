@@ -29,4 +29,6 @@
 
 [2、react读源码系列之ReactElement](https://github.com/wangzhenggui/blog/issues/10)
 
-[2、react读源码系列之初步了解ref](https://github.com/wangzhenggui/blog/issues/11)
+[3、react读源码系列之初步了解ref](https://github.com/wangzhenggui/blog/issues/11)
+
+[4、react读源码系列之初步了解Context](https://github.com/wangzhenggui/blog/issues/12)
