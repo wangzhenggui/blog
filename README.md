@@ -34,3 +34,5 @@
 [4、react读源码系列之初步了解Context](https://github.com/wangzhenggui/blog/issues/12)
 
 # javaScript经典系列
+
+[1、javaScript经典系列之几种继承的实现方式](https://github.com/wangzhenggui/blog/issues/13)
