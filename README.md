@@ -22,6 +22,7 @@
 
 [8、javaScript深入之闭包](https://github.com/wangzhenggui/blog/issues/8)
 
+[9、javaScript深入之New的实现详解](https://github.com/wangzhenggui/blog/issues/14)
 
 # React读源码系列
 
