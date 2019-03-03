@@ -37,3 +37,6 @@
 # javaScript经典系列
 
 [1、javaScript经典系列之几种继承的实现方式](https://github.com/wangzhenggui/blog/issues/13)
+
+[2、javaScript经典系列之浅拷贝与深拷贝](https://github.com/wangzhenggui/blog/issues/15)
+
