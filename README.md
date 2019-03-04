@@ -40,3 +40,6 @@
 
 [2、javaScript经典系列之浅拷贝与深拷贝](https://github.com/wangzhenggui/blog/issues/15)
 
+[3、javaScript经典系列之前端模块化](https://github.com/wangzhenggui/blog/issues/16)
+
+
