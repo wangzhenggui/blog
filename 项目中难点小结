@@ -37,7 +37,12 @@ PanResponder 通过这个API来监控客户端的手势操作
 支付宝商户中心首页改版
 
 1、这个项目需要兼容IE9以上版本，之前我在项目中使用了flex布局，在IE中运行之后全部乱套了，坑还是爬少了
-2、CSS3中的反色在IE浏览器中不生效，后面改成了svg图通过过滤器来控制他的灰度
+2、CSS3中的反色在IE浏览器中不生效，后面改成了svg图通过过滤器来控制他的灰度，还不支持多行文本显示，
+超出情况显示…,最后写了一个通用函数来处理这一块的内容，通过定义的宽度，几行，字体大小来判断能显示几个字。
+export function ellipsis(text, width, fontSize, lines) {
+  const lineTextNumber = Math.floor(width / fontSize)
+  return text.length > lineTextNumber * lines ? text.slice(0, lineTextNumber * lines - 2).concat('...') : text
+}
 3、首页banner图上面添加了代理模式，只有当img元素全部加载完毕之后才会显示出来，防止网速不好的情况出现照片一点点加载出来的情况
 4、解决方案区域如何让交互效果做的更加丝滑，之前的版本很古板，后面将里面的元素换成absolut布局，通过css3 动画效果让效果更好
 5、在后面的详情页面要实现一个右侧栏目固定定位的布局效果，需要考虑到很多临界条件，由于这一块是一个高阶组件，我们还要获取右侧的ref，
