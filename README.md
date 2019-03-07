@@ -6,7 +6,8 @@
 备注：要是遇到购买时，打开控制台输入 setInterval(function(){$('.gitbook-plugin-modal').hide()},100)
 
 # 前端杂文记录
-[3分钟带你看完10年前端发展之路](https://juejin.im/post/5ac9c6f451882555677ed301 )
+1、[3分钟带你看完10年前端发展之路](https://juejin.im/post/5ac9c6f451882555677ed301 )
+2、[前端MVC模式与MVVM模式](https://juejin.im/post/5c80aacb51882533d6708838 )
 
 # javaScript深入系列
 
