@@ -7,6 +7,7 @@
 
 # 前端杂文记录
 1、[3分钟带你看完10年前端发展之路](https://juejin.im/post/5ac9c6f451882555677ed301 )
+
 2、[前端MVC模式与MVVM模式](https://juejin.im/post/5c80aacb51882533d6708838 )
 
 # javaScript深入系列
