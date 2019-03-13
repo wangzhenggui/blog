@@ -5,6 +5,8 @@
 [深入浅出webpack](http://webpack.wuhaolin.cn/1%E5%85%A5%E9%97%A8/1-1%E5%89%8D%E7%AB%AF%E7%9A%84%E5%8F%91%E5%B1%95.html )  
 备注：要是遇到购买时，打开控制台输入 setInterval(function(){$('.gitbook-plugin-modal').hide()},100)
 
+[深入了解ES6](https://oshotokill.gitbooks.io/understandinges6-simplified-chinese/content/chapter_1.html)
+
 # 前端杂文记录
 1、[3分钟带你看完10年前端发展之路](https://juejin.im/post/5ac9c6f451882555677ed301 )
 
