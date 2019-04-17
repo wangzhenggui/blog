@@ -54,6 +54,7 @@
 
 [4、javaScript经典系列之浏览器中Event Loop](https://github.com/wangzhenggui/blog/issues/17)
 
+[5、javaScript经典系列之正则表达式](https://github.com/wangzhenggui/blog/issues/18)
 
 
 
