@@ -56,5 +56,8 @@
 
 [5、javaScript经典系列之正则表达式](https://github.com/wangzhenggui/blog/issues/18)
 
+[6、javaScript经典系列之防抖和节流](https://github.com/wangzhenggui/blog/issues/19)
+
+
 
 
