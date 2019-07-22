@@ -7,6 +7,9 @@
 
 [深入了解ES6](https://oshotokill.gitbooks.io/understandinges6-simplified-chinese/content/chapter_1.html)
 
+[react.js 小书](http://huziketang.mangojuice.top/books/react/)
+
+
 # 前端杂文记录
 1、[3分钟带你看完10年前端发展之路](https://juejin.im/post/5ac9c6f451882555677ed301 )
 
