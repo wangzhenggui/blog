@@ -9,6 +9,7 @@
 
 [react.js 小书](http://huziketang.mangojuice.top/books/react/)
 
+[javaScript红宝书](https://github.com/wangzhenggui/blog/files/4856212/JavaScript.3.pdf)
 
 # 前端杂文记录
 1、[3分钟带你看完10年前端发展之路](https://juejin.im/post/5ac9c6f451882555677ed301 )
